@@ -14,6 +14,8 @@ This is a playground project to learn about the advantages and disadvantages of 
 - Optimize API Versioning
   One of the biggest problem in general REST APIs is version controlling. For different reasons, sometimes we need to change backend APIs. To keep front-end working. we need to vertioning in our REST API. In GraphQL there's no need for it since you are fetching your APIs by adding or removing types.
 
+## Problem brought
+Pending to add.
 
 ## To run the app
 
